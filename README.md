@@ -1,7 +1,7 @@
 # YoutubeClone
 A clone website of YouTube with rapid API support
 
-#How to use:
+## How to use:
 - Downloaad The code
 - then on command line of the directory of the code folder, " npm install "
 - then create  rapidAPI account and go to youtube v3 API
