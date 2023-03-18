@@ -11,5 +11,5 @@ A clone website of YouTube with rapid API support
 - then go the fetchFromAPI.js and replace " VITE_RAPID_API_KEY " with your .env variable name
 - then run ( :) )
 
-#see the deployed site here:
+# see the deployed site here:
 https://ytclonebybygid.netlify.app
